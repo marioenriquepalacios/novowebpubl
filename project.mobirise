@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-03-10_1704",
+    "name": "novowebpubl",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -35,7 +35,11 @@
     "uniqCompNum": 11,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-115520045-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-115520045-2');\r\n</script>\r\n",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
